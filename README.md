@@ -15,9 +15,9 @@ This repository contains two Jupyter notebooks demonstrating **practical applica
 ### 2. Clustering & Segmentation (Iris + Mall Customers Dataset)
 - Theoretical introduction to clustering (K-Means, DBSCAN)  
 - Clustering analysis on the **Iris dataset**  
-- Customer segmentation on the **Mall Customers dataset** using K-Means and Elbow method  
+- Customer segmentation on the **Customers dataset** using K-Means   
 - Visualization of clusters and insights  
-
+### 3.NLP Analysis (Arabic rating Analysis)
 ---
 
 ## 🛠️ Tech Stack
