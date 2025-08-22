@@ -20,8 +20,3 @@ This repository contains two Jupyter notebooks demonstrating **practical applica
 ### 3.NLP Analysis (Arabic rating Analysis)
 ---
 
-## 🛠️ Tech Stack
-- **Python** (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)  
-- **Jupyter Notebook**  
-
----
